@@ -48,7 +48,7 @@ function writeHikes() {
     });
     hikesRef.add({
         code:"AM01",
-        name: "Buntzen Lake Trail Trail",    //replace with your own city?
+        name: "Buntzen Lake Trail",    //replace with your own city?
         city: "Anmore",
         province: "BC",
         level: "moderate",
